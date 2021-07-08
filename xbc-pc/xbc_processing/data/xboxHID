@@ -1,0 +1,17 @@
+xboxHID
+thrust	forward+, back-	3	SLIDER	Y Axis	0	-1000.0	0.0
+yaw	right+, left-	3	SLIDER	X Axis	0	1000.0	0.0
+slideZ	forward+, backward-	3	SLIDER	Y Rotation	0	-1000.0	0.0
+slideX	right+, left-	3	SLIDER	X Rotation	0	1000.0	0.0
+ign	right+, left-	3	SLIDER	Z Axis	0	-1000.0	0.0
+butA	custom func	1	BUTTON	Button 0	0	0.0	0.0
+butB	custom func	1	BUTTON	Button 1	0	0.0	0.0
+butX	custom func	1	BUTTON	Button 2	0	0.0	0.0
+butY	custom func	1	BUTTON	Button 3	0	0.0	0.0
+lBump	custom func	1	BUTTON	Button 4	0	0.0	0.0
+rBump	custom func	1	BUTTON	Button 5	0	0.0	0.0
+butView	custom func	1	BUTTON	Button 6	0	0.0	0.0
+butMenu	custom func	1	BUTTON	Button 7	0	0.0	0.0
+lJoyDown	custom func	1	BUTTON	Button 8	0	0.0	0.0
+rJoyDown	custom func	1	BUTTON	Button 9	0	0.0	0.0
+trim	trim	2	HAT	cooliehat: Hat Switch	0	1.0	0.0
